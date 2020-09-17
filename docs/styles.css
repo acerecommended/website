@@ -8,6 +8,8 @@ body {
     --fontColor1: #7d52a8;
 
     background-color: var(--bGColor1);
+    
+    font-family: 'Montserrat';
 }
 
 #main {
@@ -71,4 +73,5 @@ body {
 
 h3 {
     color: grey;
+    font-family: 'Montserrat';
 }
