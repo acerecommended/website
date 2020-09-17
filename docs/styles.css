@@ -104,6 +104,7 @@ p{
     font-size: 40px;
     font-style: italic;
     color: var(--fontColor1);
+    text-align: center;
     text-decoration: none;
     padding: 25px;
 /*     border-radius: 4px; */
