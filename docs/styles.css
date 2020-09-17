@@ -44,7 +44,8 @@ body {
 }
 
 .nav-list-item {
-    font-weight: 600;
+/*     font-weight: 600; */
+    font-weight: medium
 }
 
 .nav-list-item a:link {
