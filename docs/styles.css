@@ -44,8 +44,8 @@ body {
 }
 
 .nav-list-item {
-/*     font-weight: 600; */
-    font-weight: medium
+    font-weight: 600;
+/*     font-weight: medium this worked */
 }
 
 .nav-list-item a:link {
@@ -76,4 +76,5 @@ body {
 h3 {
     color: grey;
     font-family: 'Montserrat';
+    font-weight: 500
 }
