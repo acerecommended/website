@@ -40,7 +40,7 @@ body {
     flex-direction: row;
     justify-content: space-around;
     flex-basis: 25%;
-    flex-wrap: wrap-reverse;
+    flex-wrap: wrap;
 }
 
 .nav-list-item {
