@@ -44,7 +44,7 @@ body {
 }
 
 .nav-list-item {
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .nav-list-item a:link {
@@ -69,7 +69,7 @@ body {
 
 #name-brand {
     color: var(--fontColor1);
-    font-weight: bold;
+    font-weight: 600;
 }
 
 h3 {
