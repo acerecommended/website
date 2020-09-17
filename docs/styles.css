@@ -9,7 +9,7 @@ body {
 
     background-color: var(--bGColor1);
     
-    font-family: 'Times New Roman';
+    font-family: 'Montserrat';
 }
 
 #main {
@@ -91,4 +91,8 @@ h4 {
     font-family: 'Montserrat';
     font-weight: 400
     font-style: italic;
+}
+
+p{
+    font-family: 'Times New Roman';
 }
