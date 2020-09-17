@@ -44,7 +44,8 @@ body {
 }
 
 .nav-list-item {
-    font-weight: 400;
+    font-weight: 500;
+    font-family: 'Montserrat';
 /*     font-weight: medium this worked */
 }
 
